@@ -1,11 +1,11 @@
 {
-    "name": "haruncpi/laravel-id-generator",
+    "name": "topcloud-co/laravel-id-generator",
     "description": "Easy way to generate custom ID in laravel framework",
     "license": "cc-by-4.0",
     "authors": [
         {
-            "name": "Md.Harun-Ur-Rashid",
-            "email": "harun.cox@gmail.com"
+            "name": "Apinan Kamsumrit",
+            "email": "apinan.k@topcloud.co"
         }
     ],
     "minimum-stability": "dev",
